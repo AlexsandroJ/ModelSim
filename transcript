@@ -487,3 +487,12 @@ help
 # Compile of ula.sv was successful.
 # Compile of tb_ula.sv was successful.
 # 2 compiles, 0 failed with no errors.
+do m
+# 
+# ====================================
+#      MENU INTERATIVO MODELSIM
+# ====================================
+# 1 Compilar apenas
+# 2 Executar testes rapidos
+# 3 Sair
+# ====================================
