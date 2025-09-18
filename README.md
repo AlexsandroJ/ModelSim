@@ -12,7 +12,7 @@ Este projeto implementa uma Unidade Lógica e Aritmética (ULA) em SystemVerilog
 
 1. **Abra o ModelsSim**  
 
-1. **Va em change directory na aba file do ModelsSim** 
+1. **Va em `change directory` na aba `file` do ModelsSim** 
 
 ![diretorio](/src/img/diretorio.png)
 
