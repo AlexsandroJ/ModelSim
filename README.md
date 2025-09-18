@@ -17,14 +17,14 @@ do m
 ```
 O menu será exibido, permitindo escolher compilar ou rodar os testes na ULA.
 
-# ====================================
-#      MENU INTERATIVO MODELSIM
-# ====================================
-# 1 Compilar apenas
-# 2 Executar testes rapidos
-# 3 Sair
-# ====================================
-# Escolha uma opcao 1-3:
+## ====================================
+##      MENU INTERATIVO MODELSIM
+## ====================================
+## 1 Compilar apenas
+## 2 Executar testes rapidos
+## 3 Sair
+## ====================================
+## Escolha uma opcao 1-3:
 
 ## Requisitos
 
