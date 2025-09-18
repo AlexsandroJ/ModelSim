@@ -5,8 +5,8 @@ Este projeto implementa uma Unidade Lógica e Aritmética (ULA) em SystemVerilog
 ## 📁 Estrutura do Projeto
 
 - `ula.sv`: Implementação da ULA.
-- `tb_ula.sv`: Testbench para simulação e verificação da ULA.
-- `m`: Script de menu interativo. Ao executar `m`, um menu é exibido para facilitar a execução dos testes.
+- `tb_ula.sv`: Casos de testes para verificação da ULA.
+- `m`: Script de menu interativo. Ao executar `do m`, um menu é exibido para facilitar a execução dos testes.
 
 ## Como Usar
 
@@ -17,10 +17,15 @@ do m
 ```
 O menu será exibido, permitindo escolher compilar ou rodar os testes na ULA.
 
+# ====================================
+#      MENU INTERATIVO MODELSIM
+# ====================================
+# 1 Compilar apenas
+# 2 Executar testes rapidos
+# 3 Sair
+# ====================================
+# Escolha uma opcao 1-3:
+
 ## Requisitos
 
-- ModelSim ou outro simulador compatível com SystemVerilog.
-
-## Licença
-
-Este projeto é de uso educacional.
+- [ModelSim](https://www.intel.com.br/content/www/br/pt/software-kit/750666/modelsim-intel-fpgas-standard-edition-software-version-20-1-1.html) ou outro simulador compatível com SystemVerilog.
