@@ -54,7 +54,7 @@ module tb_ula;
 
         // Teste 1: Soma
         run_test(" somar dois numeros (10 + 5 = 15)",
-                 8'd10, 8'd5, 2'b00, 8'd14);
+                 8'd10, 8'd5, 2'b00, 8'd15);
 
         // Teste 2: Subtracao
         run_test(" subtrair dois numeros (10 - 5 = 5)",
