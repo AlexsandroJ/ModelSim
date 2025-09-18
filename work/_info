@@ -11,28 +11,28 @@ cModel Technology
 dC:/intelFPGA/20.1
 vtb_ula
 Z0 DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
-Z1 !s110 1758217466
+Z1 !s110 1758235444
 !i10b 1
-!s100 d6<PdEl5NQ@2<CH@8P@gM2
+!s100 k>Lz<dNURVGKn64>K1?o<0
 Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
-IJ6A=b[AoPEn?3=WK:T;o=3
+IdmAzB7CY0JZZkQBC>_mRA0
 Z3 VDg1SIo80bB@j0V0VzS_@n1
 S1
 Z4 dD:/Projetos/ModelSim
-w1758217087
-8D:\Projetos\ModelSim\tb_ula.sv
-FD:\Projetos\ModelSim\tb_ula.sv
-!i122 6
+w1758235060
+8tb_ula.sv
+Ftb_ula.sv
+!i122 8
 L0 4 82
 Z5 OV;L;2020.1;71
 r1
 !s85 0
 31
-Z6 !s108 1758217466.000000
-!s107 D:\Projetos\ModelSim\tb_ula.sv|
-!s90 -reportprogress|300|-work|work|-sv|-stats=none|D:\Projetos\ModelSim\tb_ula.sv|
+Z6 !s108 1758235444.000000
+!s107 tb_ula.sv|ula.sv|
+Z7 !s90 -reportprogress|300|-sv|ula.sv|tb_ula.sv|
 !i113 1
-Z7 o-work work -sv
+o-sv
 Z8 tCvgOpt 0
 vula
 R0
@@ -40,22 +40,22 @@ R1
 !i10b 1
 !s100 bf;eDN1;G6A`b@@HD3[9g2
 R2
-IP7@DGKC?eGQ2a6UDAHDcz3
+IUU4mHKbbnIWFEnD[k?oSC1
 R3
 S1
 R4
 w1758216292
-8D:\Projetos\ModelSim\ula.sv
-FD:\Projetos\ModelSim\ula.sv
-!i122 5
+8ula.sv
+Fula.sv
+!i122 8
 L0 3 18
 R5
 r1
 !s85 0
 31
 R6
-!s107 D:\Projetos\ModelSim\ula.sv|
-!s90 -reportprogress|300|-work|work|-sv|-stats=none|D:\Projetos\ModelSim\ula.sv|
-!i113 1
+Z9 !s107 tb_ula.sv|ula.sv|
 R7
+!i113 1
+o-sv
 R8
