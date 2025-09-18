@@ -10,7 +10,31 @@ Este projeto implementa uma Unidade Lógica e Aritmética (ULA) em SystemVerilog
 
 ## 🔧 Como Baixar e Executar o Projeto
 
-## 1. Clonar o Repositório do Projeto
+## 1. Instalar Git
+Windows:
+Acesse o site oficial do [Git](https://git-scm.com)
+
+Baixe o instalador para Windows.
+
+Execute o instalador e siga as instruções na tela, mantendo as configurações padrão recomendadas.
+
+macOS:
+Você pode instalar o Git usando o Homebrew.
+
+Terminal
+```
+brew install git
+```
+Linux:
+No Ubuntu ou distribuições baseadas em Debian:
+
+Terminal
+```
+sudo apt-get update
+sudo apt-get install git
+```
+
+## 2. Clonar o Repositório do Projeto
 Usando o Git, você pode clonar o repositório do seu projeto para obter uma cópia local.
 
 Terminal
@@ -19,7 +43,7 @@ git clone https://github.com/AlexsandroJ/ModelSim
 cd ModelSim
 ```
 
-## Como Usar
+## 3. Como Usar
 
 1. **Abra o ModelsSim**  
 
