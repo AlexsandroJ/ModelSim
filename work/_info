@@ -9,31 +9,81 @@ z2
 !i10f 100
 cModel Technology
 dC:/intelFPGA/20.1
-vtb_ula
+vinstruction_decoder
 Z0 DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
-Z1 !s110 1758235444
+Z1 !s110 1758285674
 !i10b 1
-!s100 k>Lz<dNURVGKn64>K1?o<0
+!s100 [b`6dX]05Snn0BF4K@;[`2
 Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
-IdmAzB7CY0JZZkQBC>_mRA0
+I:z:<bQ8bC0gHzzSX`m^Ja2
 Z3 VDg1SIo80bB@j0V0VzS_@n1
 S1
 Z4 dD:/Projetos/ModelSim
-w1758235060
-8tb_ula.sv
-Ftb_ula.sv
-!i122 8
-L0 4 82
+w1758283456
+8instruction_decoder.sv
+Finstruction_decoder.sv
+!i122 15
+L0 3 91
 Z5 OV;L;2020.1;71
 r1
 !s85 0
 31
-Z6 !s108 1758235444.000000
-!s107 tb_ula.sv|ula.sv|
-Z7 !s90 -reportprogress|300|-sv|ula.sv|tb_ula.sv|
+Z6 !s108 1758285674.000000
+!s107 tb_instruction_decoder.sv|instruction_decoder.sv|tb_ula.sv|ula.sv|
+Z7 !s90 -reportprogress|300|-sv|ula.sv|tb_ula.sv|instruction_decoder.sv|tb_instruction_decoder.sv|
 !i113 1
 o-sv
 Z8 tCvgOpt 0
+vtb_instruction_decoder
+R0
+R1
+!i10b 1
+!s100 EzRiWzRn9:dN3L0ce2:f51
+R2
+IlmGhOX?WY<BSCbSLYfRgU3
+R3
+S1
+R4
+w1758285662
+8tb_instruction_decoder.sv
+Ftb_instruction_decoder.sv
+!i122 15
+L0 3 273
+R5
+r1
+!s85 0
+31
+R6
+Z9 !s107 tb_instruction_decoder.sv|instruction_decoder.sv|tb_ula.sv|ula.sv|
+R7
+!i113 1
+o-sv
+R8
+vtb_ula
+R0
+R1
+!i10b 1
+!s100 k>Lz<dNURVGKn64>K1?o<0
+R2
+IdmAzB7CY0JZZkQBC>_mRA0
+R3
+S1
+R4
+w1758235060
+8tb_ula.sv
+Ftb_ula.sv
+!i122 15
+L0 4 82
+R5
+r1
+!s85 0
+31
+R6
+R9
+R7
+!i113 1
+o-sv
+R8
 vula
 R0
 R1
@@ -47,14 +97,14 @@ R4
 w1758216292
 8ula.sv
 Fula.sv
-!i122 8
+!i122 15
 L0 3 18
 R5
 r1
 !s85 0
 31
 R6
-Z9 !s107 tb_ula.sv|ula.sv|
+R9
 R7
 !i113 1
 o-sv
