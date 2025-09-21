@@ -39,7 +39,6 @@ proc testes_instruction_decoder {} {
     run -all
 }
 
-
 # Loop principal
 while {1} {
     mostrar_menu
